@@ -1,0 +1,32 @@
+*{
+    /* text-align: justify; */
+    /* border: 1px solid red; */
+    border-radius: 10%;
+    font-family: sans-serif;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+.introductoon{
+    
+    width: 400px;
+    height: 10%;
+    /* word-wrap: left; */
+    /* block-size: auto; */
+    /* text-align: left; */
+    /* float: right; */
+    
+}
+.p1{
+    margin-left: 430px;
+    margin-top: -180px;
+}
+.equipment{
+    padding-left: 20px;
+}
+img{
+    box-shadow: 3px 3px 15px black;
+}
